@@ -1,0 +1,8 @@
+c:\users\dgraveli\documents\visual studio 2010\Projects\MultiParts\RightNow Workspace Ribbon Button Add-In2\bin\Debug\RightNow.AddIns.AddInViews.dll
+c:\users\dgraveli\documents\visual studio 2010\Projects\MultiParts\RightNow Workspace Ribbon Button Add-In2\bin\Debug\RightNow.AddIns.AddInViews.xml
+c:\users\dgraveli\documents\visual studio 2010\Projects\MultiParts\RightNow Workspace Ribbon Button Add-In2\obj\Debug\RightNow Workspace Ribbon Button Add-In2.csproj.GenerateResource.Cache
+c:\users\dgraveli\documents\visual studio 2010\Projects\MultiParts\RightNow Workspace Ribbon Button Add-In2\bin\Debug\MultiParts.dll
+c:\users\dgraveli\documents\visual studio 2010\Projects\MultiParts\RightNow Workspace Ribbon Button Add-In2\bin\Debug\MultiParts.pdb
+c:\users\dgraveli\documents\visual studio 2010\Projects\MultiParts\RightNow Workspace Ribbon Button Add-In2\obj\Debug\MultiParts.Properties.Resources.resources
+c:\users\dgraveli\documents\visual studio 2010\Projects\MultiParts\RightNow Workspace Ribbon Button Add-In2\obj\Debug\MultiParts.dll
+c:\users\dgraveli\documents\visual studio 2010\Projects\MultiParts\RightNow Workspace Ribbon Button Add-In2\obj\Debug\MultiParts.pdb
